@@ -7,7 +7,7 @@
   <h1>👋 Olá, eu sou David Felicio (daweronn)!</h1>
   
   <p>
-    🚀 **Software Enthusiast** | 💼 **Available for Work**
+    🚀 Software Enthusiast | 💼 Available for Work
   </p>
   
 </div>
@@ -16,7 +16,7 @@
 
 ## 💻 Sobre Mim
 
-Sou David Felicio, um programador de 24 anos com **mais de 2 anos de experiência** em desenvolvimento de software. Sou apaixonado por criar soluções eficientes e escaláveis, e estou sempre em busca de novos desafios.
+Me chamo David, sou um programador de 24 anos com **mais de 2 anos de experiência** em desenvolvimento de software/aplicações web. Sou apaixonado por criar soluções eficientes e escaláveis, e estou sempre em busca de novos desafios.
 
 Minhas especialidades estão focadas principalmente no ecossistema **Frontend** moderno e em **Automações** poderosas:
 
