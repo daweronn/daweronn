@@ -38,10 +38,6 @@ Se você precisa de uma solução para otimizar suas operações, sinta-se à vo
 
 ## 📊 Estatísticas do GitHub
 
-Para exibir seus dados de forma dinâmica (como a contagem de estrelas e commits), você precisará usar ferramentas externas que geram imagens (SVGs) a partir da sua conta do GitHub.
-
-**⚠️ Instrução:** Copie as linhas abaixo, mantendo os links. O seu nome de usuário (`daweronn`) já está no URL e as imagens serão geradas automaticamente pelo GitHub!
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=daweronn&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Estatísticas do GitHub do David" />
@@ -58,4 +54,6 @@ Estou sempre aberto a novas conexões, projetos e oportunidades. Sinta-se à von
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/davidvicter/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfelicio2402@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidvicter)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daweronn)
 ---
