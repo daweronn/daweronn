@@ -7,7 +7,7 @@
   <h1>👋 Olá, tudo bem?</h1>
   
   <p>
-Software Enthusiast | 💼 Available for Work
+Software Enthusiast | Available for Work
   </p>
   
 </div>
