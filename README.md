@@ -1,79 +1,68 @@
 <div align="center">
-  
-  <a href="https://github.com/daweronn">
-    <img src="https://raw.githubusercontent.com/half-blood-prince-10/half-blood-prince-10/main/assets/cover.gif" alt="Olá, eu sou o David, um Software Enthusiast!" />
+
+<pre>
+┌─────────────────────────────────────────────────────────────────┐
+│ SYSTEM_STATUS: OK                LOCATION: RIO DE JANEIRO, BR   │
+│ OS: DEVFELICIO_SO_V1.0           USER: root                     │
+└─────────────────────────────────────────────────────────────────┘
+</pre>
+
+<h1>HELLO. I AM DAVID FELICIO.</h1>
+<h3>>_ A FULLSTACK SOFTWARE DEVELOPER.</h3>
+
+</div>
+
+<br/>
+
+> Desenvolvedor Fullstack com forte atuação autônoma no ecossistema JavaScript/TypeScript (React, Node.js) e Python. Especializado em assumir a responsabilidade de ponta a ponta em projetos complexos, desde aplicações desktop híbridas até sistemas de gestão (CRM) para o setor bancário integrados à nuvem (AWS). Foco absoluto em entregar código limpo, arquiteturas resilientes e soluções que resolvem dores reais de negócios.
+
+<br/>
+
+### ⚙️ TECH_STACK.cfg
+
+<p>
+  <img src="https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=white&labelColor=3e3e3e" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3e3e3e" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3e3e3e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=white&labelColor=3e3e3e" alt="Python" />
+  <img src="https://img.shields.io/badge/Tauri-121212?style=for-the-badge&logo=tauri&logoColor=white&labelColor=3e3e3e" alt="Tauri" />
+  <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=3e3e3e" alt="AWS" />
+  <img src="https://img.shields.io/badge/Supabase-121212?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3e3e3e" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-121212?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=3e3e3e" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vite-121212?style=for-the-badge&logo=vite&logoColor=white&labelColor=3e3e3e" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-121212?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3e3e3e" alt="TailwindCSS" />
+</p>
+
+<br/>
+
+### 📁 RECENT_DIRECTORIES
+
+| `Executable` | `Description` | `Dependencies` |
+| :--- | :--- | :--- |
+| **`birdo.exe`** | Aplicativo completo para gestão de plantel de aves (genética, vacinas, reprodução). | React, TS, Node |
+| **`desktoptasks.app`** | App desktop híbrido de produtividade com sync offline-first e online. | Tauri, React, Supabase |
+| **`bank_crm.sys`** | Dashboard interativo e serverless para gestão de contratos e documentos bancários (Ibercaja). | React, Vite, AWS |
+| **`cidadesanta.web`** | Redesign e engenharia frontend de marketplace focado em conversão e usabilidade. | React, Tailwind |
+| **`bebelize.exe`** | Ferramenta de modelagem visual interativa para customização de enxovais. | React, JS |
+
+<br/>
+
+### 📡 OPEN_CONNECTIONS
+
+<p>
+  <a href="https://linkedin.com/in/davidfelicio" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3e3e3e" alt="LinkedIn" />
   </a>
-  
-  <h1>👋 Olá, tudo bem?</h1>
-  
-  <p>
-Software Enthusiast | Available for Work
-  </p>
-  
-</div>
+  <a href="mailto:contato@davidfelicio.dev" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-121212?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3e3e3e" alt="Email" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-121212?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3e3e3e" alt="Portfolio" />
+  </a>
+</p>
 
----
+<br/>
 
-## 💻 Sobre Mim
-
-Me chamo David, prazer! Eu sou um programador de 24 anos com **mais de 2 anos de experiência** em desenvolvimento de software. Sou apaixonado por criar soluções eficientes e escaláveis, e estou sempre em busca de novos desafios.
-
-Minhas especialidades estão focadas principalmente no ecossistema **Frontend** moderno e em **Automações** poderosas:
-
-### 🛠️ Habilidades Principais
-
-| Categoria | Tecnologias |
-| :---: | :--- |
-| **Frontend/Frameworks** | React, Next.js, Vite.js |
-| **Linguagens** | TypeScript, JavaScript |
-| **Backend/Automação** | Python |
-
-<br>
-
-<div align="center">
-  
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  </p>
-  
-</div>
-
----
-
-## 🏢 NEXIT - Sua próxima saída para automação.
-
-Eu também sou o fundador da **NEXIT**, uma empresa focada em **serviços de automação**.
-
-> **NEXIT** transforma processos manuais e repetitivos em fluxos de trabalho automatizados e inteligentes, liberando tempo e recursos valiosos para que nossos clientes se concentrem no que realmente importa.
-
-Se você precisa de uma solução para otimizar suas operações, sinta-se à vontade para entrar em contato!
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=daweronn&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Estatísticas do GitHub do David" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daweronn&layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Principais Linguagens do David" />
-
-</div>
-
----
-
-## 🔗 Conecte-se Comigo
-
-Estou sempre aberto a novas conexões, projetos e oportunidades! Sinta-se à vontade para me contatar em qualquer uma dessas plataformas.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](**COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI**)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidvicter)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daweronn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**COLOQUE_SEU_EMAIL_AQUI**)
-
----
+<pre>
+root@davidfelicio:~# system_terminated
+</pre>
