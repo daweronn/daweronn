@@ -4,7 +4,7 @@
 
 > *A complexidade reduzida à sua forma mais simples e robusta.*
 
-Sou um engenheiro de software focado no ecossistema JavaScript/TypeScript e Python. Tenho experiência no desenvolvimento de aplicações end-to-end, com forte autonomia para orquestrar desde infraestruturas de nuvem (AWS) até a criação de interfaces performáticas de alta conversão.
+Sou um desenvolvedor de software focado no ecossistema JavaScript/TypeScript e Python. Tenho experiência no desenvolvimento de aplicações end-to-end, com forte autonomia para orquestrar desde infraestruturas de nuvem (AWS) até a criação de interfaces performáticas de alta conversão.
 
 Atualmente, dedico minha engenharia para resolver desafios críticos de negócio, criando arquiteturas offline-first, integrações serverless e prezando sempre pela entrega de um código limpo e manutenível.
 
@@ -14,7 +14,7 @@ Atualmente, dedico minha engenharia para resolver desafios críticos de negócio
 
 - 🏗️ **Arquitetura Fullstack:** Next.js, React, Node.js e Python.
 - ☁️ **Cloud & Serverless:** AWS (S3, IAM) para infraestrutura escalável e segura.
-- ⚡ **Aplicações Desktop:** Engenharia multiplataforma de alta performance com Tauri.
+- ⚡ **Aplicações Desktop:** Desenvolvimento multiplataforma de alta performance com Tauri.
 - 📱 **Design e UX:** TailwindCSS e CSS nativo para construir interfaces de usuário elegantes e minimalistas.
 
 ---
@@ -28,8 +28,9 @@ Atualmente, dedico minha engenharia para resolver desafios críticos de negócio
 ### 📈 Experiência Recente
 
 * **Ibercaja (Espanha):** Desenvolvimento do zero de um sistema CRM para o setor bancário com arquitetura serverless na AWS.
-* **Desktop Tasks:** Engenharia de aplicação desktop multiplataforma focada em arquitetura offline-first nativa.
-* **Bebelize / Cidade Santa:** Ferramentas avançadas de modelagem visual interativa e engenharia frontend de marketplaces.
+* **Desktop Tasks:** Desenvolvimento de aplicação desktop multiplataforma focada em arquitetura offline-first nativa.
+* **Bebelize: ** Ferramentas avançadas de modelagem visual interativa com motor gerador de layouts infantis.
+* **Cidade Santa: ** Desenvolvimento frontend de marketplaces para servidor de GTA RP.
 * **Birdo:** Aplicativo end-to-end para gestão com lógicas de rastreamento e negócio complexas.
 * **nexit.tech:** Atuação em software house ágil com evolução estrutural de múltiplas codebases.
 
