@@ -9,7 +9,7 @@ Minha atuação é direcionada à resolução de desafios críticos de negócio 
 
 ---
 
-### 💻 Atuação e Competências
+### <img src="https://img.shields.io/badge/-Competências-24292E?style=flat-square&logo=terminal&logoColor=white" valign="middle" /> Atuação e Competências
 
 * **Arquitetura Fullstack:** Estruturação de sistemas complexos utilizando Next.js, React, Node.js e Python.
 * **Cloud & Serverless:** Gerenciamento de infraestrutura escalável e segura utilizando recursos da AWS (S3, IAM).
@@ -18,13 +18,27 @@ Minha atuação é direcionada à resolução de desafios críticos de negócio 
 
 ---
 
-### 🛠️ Stack Técnica
+### <img src="https://img.shields.io/badge/-Tecologias-24292E?style=flat-square&logo=codefactor&logoColor=white" valign="middle" /> Stack Técnica
 
-`TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js` `Tauri` `Vite` `PostgreSQL` `AWS` `TailwindCSS` `Framer Motion` `Git`
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📫 Contato
+### <img src="https://img.shields.io/badge/-Contacto-24292E?style=flat-square&logo=gmail&logoColor=white" valign="middle" /> Contato
 
 * **LinkedIn:** [linkedin.com/in/davidvicter](https://linkedin.com/in/davidvicter)
 * **Email:** davidfelicio2402@gmail.com
