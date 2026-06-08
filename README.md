@@ -9,7 +9,7 @@ Minha atuação é direcionada à resolução de desafios críticos de negócio 
 
 ---
 
-### <img src="https://img.shields.io/badge/-Competências-24292E?style=flat-square&logo=terminal&logoColor=white" valign="middle" /> Atuação e Competências
+### Atuação e Competências
 
 * **Arquitetura Fullstack:** Estruturação de sistemas complexos utilizando Next.js, React, Node.js e Python.
 * **Cloud & Serverless:** Gerenciamento de infraestrutura escalável e segura utilizando recursos da AWS (S3, IAM).
@@ -18,7 +18,7 @@ Minha atuação é direcionada à resolução de desafios críticos de negócio 
 
 ---
 
-### <img src="https://img.shields.io/badge/-Tecologias-24292E?style=flat-square&logo=codefactor&logoColor=white" valign="middle" /> Stack Técnica
+### Stack Técnica
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -38,7 +38,7 @@ Minha atuação é direcionada à resolução de desafios críticos de negócio 
 
 ---
 
-### <img src="https://img.shields.io/badge/-Contacto-24292E?style=flat-square&logo=gmail&logoColor=white" valign="middle" /> Contato
+### Contato
 
 * **LinkedIn:** [linkedin.com/in/davidvicter](https://linkedin.com/in/davidvicter)
 * **Email:** davidfelicio2402@gmail.com
